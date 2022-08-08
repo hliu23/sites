@@ -62,6 +62,7 @@
 | [Markdown guide]                 | Write README.md for Github                      |
 | [Use Github Pages]               | Host webpages on Github Pages                   | 
 | [Add variable to PATH]           | Make binaries more accessible from cmd line     | 
+| [Stack Overflow]                 | General Q & A                                   |
 
 [W3Schools Python tutorial]: https://www.w3schools.com/python/
 [Python in VSCode]: https://code.visualstudio.com/docs/python/python-tutorial
@@ -71,7 +72,7 @@
 [Markdown guide]: https://www.markdownguide.org/cheat-sheet/
 [Use Github Pages]: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site 
 [Add variable to PATH]: https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
-
+[Stack Overflow]: https://stackoverflow.com/
 
 ---
 
